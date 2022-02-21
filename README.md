@@ -1,4 +1,5 @@
 # URS
+Ugradbeni računalni sustavi
 
 Glavna je ideja projekta napraviti svojevrsnu evidenciju studenata pomoću čitača magnetskih
 kartica, odnosno prikazati kontrolirani sustav svakodnevne okoline. Prilikom svakog očitanja
